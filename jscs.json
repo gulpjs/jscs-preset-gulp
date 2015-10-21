@@ -1,0 +1,9 @@
+{
+  "disallowNewlineBeforeBlockStatements": true,
+  "requireBlocksOnNewline": true,
+  "requireCapitalizedComments": true,
+  "requireSpaceAfterBinaryOperators": true,
+  "requireSpacesInFunction": {
+    "beforeOpeningCurlyBrace": true
+  }
+}
